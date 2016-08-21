@@ -1,0 +1,54 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Diyar\Documents\IST446 Game group project\LockedIn_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Diyar\Documents\IST446 Game group project\LockedIn_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Diyar\Documents\IST446 Game group project\LockedIn_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Diyar\Documents\IST446 Game group project\LockedIn_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Diyar\Documents\IST446 Game group project\LockedIn_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Diyar\Documents\IST446 Game group project\LockedIn_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Diyar\Documents\IST446 Game group project\LockedIn_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Diyar\Documents\IST446 Game group project\LockedIn_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.159 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Diyar\Documents\IST446 Game group project\LockedIn_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Diyar\Documents\IST446 Game group project\LockedIn_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 12.347822 ms
+System memory in use before: 15.2 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 12.5 MB.
+
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 605.
+Total: 3.581726 ms (FindLiveObjects: 0.091133 ms CreateObjectMapping: 0.061987 ms MarkObjects: 0.379314 ms  DeleteObjects: 1.737701 ms)
+
+UnloadTime: 2.094027 ms
+System memory in use before: 15.1 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 14.7 MB.
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 698.
+Total: 2.695018 ms (FindLiveObjects: 0.066503 ms CreateObjectMapping: 0.033662 ms MarkObjects: 0.458953 ms  DeleteObjects: 0.936380 ms)
+
+UnloadTime: 4.663018 ms
+System memory in use before: 15.1 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 12.5 MB.
+
+Unloading 115 unused Assets to reduce memory usage. Loaded Objects now: 605.
+Total: 3.123183 ms (FindLiveObjects: 0.055829 ms CreateObjectMapping: 0.029967 ms MarkObjects: 0.300906 ms  DeleteObjects: 1.720460 ms)
+
+UnloadTime: 2.188034 ms
+System memory in use before: 15.1 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 14.7 MB.
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 698.
+Total: 2.562833 ms (FindLiveObjects: 0.065682 ms CreateObjectMapping: 0.035304 ms MarkObjects: 0.449922 ms  DeleteObjects: 0.908465 ms)
+

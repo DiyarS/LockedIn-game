@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 394c87935ab37054abf6ba69619d24b5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - soundhover: {fileID: 8300000, guid: ccf63060966be204996df91b7181cd02, type: 3}
+  - beep: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
